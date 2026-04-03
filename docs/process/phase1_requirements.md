@@ -31,3 +31,5 @@
 - [ ] Firebaseプロジェクトの作成
 - [ ] FlutterのFirebase連携設定（FlutterFire CLI）
 - [x] GitHubリポジトリの作成
+- [x] Flutter SDK のインストール・設定
+- [x] Android Studio のインストール・Android SDK のセットアップ

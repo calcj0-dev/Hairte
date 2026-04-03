@@ -3,7 +3,7 @@
 対象機能: 髪カルテ・カット履歴・アカウント管理
 
 ## プロジェクトセットアップ
-- [ ] Flutterプロジェクトの作成
+- [x] Flutterプロジェクトの作成
 - [ ] ディレクトリ構成の設計
 - [ ] Firebase SDK の導入（firebase_core / cloud_firestore / firebase_auth / firebase_storage）
 - [ ] 状態管理ライブラリの導入（Riverpod 等）
